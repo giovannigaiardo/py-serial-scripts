@@ -1,0 +1,4 @@
+colorama
+pyserial
+pip 
+crccheck
